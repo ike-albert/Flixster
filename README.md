@@ -24,7 +24,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="https://s4.gifyu.com/images/Assignment2.md.gif" width=250><br>
+<img src="https://s4.gifyu.com/images/Assignment2.gif" width=250><br>
 
 ### Notes
 
@@ -57,6 +57,7 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 Describe any challenges encountered while building the app.
+- I forgot to add a line of code when using the parceler class/object, and I ended up spending about 2 hours trying to debug.
 
 ### Open-source libraries used
 
